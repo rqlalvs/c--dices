@@ -1,0 +1,15 @@
+D:\study\c--dices\rolldices\rolldices\bin\Debug\net6.0\rolldices.exe
+D:\study\c--dices\rolldices\rolldices\bin\Debug\net6.0\rolldices.deps.json
+D:\study\c--dices\rolldices\rolldices\bin\Debug\net6.0\rolldices.runtimeconfig.json
+D:\study\c--dices\rolldices\rolldices\bin\Debug\net6.0\rolldices.dll
+D:\study\c--dices\rolldices\rolldices\bin\Debug\net6.0\rolldices.pdb
+D:\study\c--dices\rolldices\rolldices\obj\Debug\net6.0\rolldices.csproj.AssemblyReference.cache
+D:\study\c--dices\rolldices\rolldices\obj\Debug\net6.0\rolldices.GeneratedMSBuildEditorConfig.editorconfig
+D:\study\c--dices\rolldices\rolldices\obj\Debug\net6.0\rolldices.AssemblyInfoInputs.cache
+D:\study\c--dices\rolldices\rolldices\obj\Debug\net6.0\rolldices.AssemblyInfo.cs
+D:\study\c--dices\rolldices\rolldices\obj\Debug\net6.0\rolldices.csproj.CoreCompileInputs.cache
+D:\study\c--dices\rolldices\rolldices\obj\Debug\net6.0\rolldices.dll
+D:\study\c--dices\rolldices\rolldices\obj\Debug\net6.0\refint\rolldices.dll
+D:\study\c--dices\rolldices\rolldices\obj\Debug\net6.0\rolldices.pdb
+D:\study\c--dices\rolldices\rolldices\obj\Debug\net6.0\rolldices.genruntimeconfig.cache
+D:\study\c--dices\rolldices\rolldices\obj\Debug\net6.0\ref\rolldices.dll
